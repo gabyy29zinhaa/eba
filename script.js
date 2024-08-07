@@ -1,1 +1,1 @@
-alert=(oi tudo bão?)
+alert("oi tudo bão?")
